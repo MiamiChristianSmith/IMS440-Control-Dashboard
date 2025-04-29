@@ -1,0 +1,29 @@
+[
+    {
+        "id": "9a79b1c3f3200ec0",
+        "type": "change",
+        "z": "b3224091194229ec",
+        "name": "FullScreenTVsReverse Topic",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "/FullScreenTVsReverse",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 960,
+        "y": 2260,
+        "wires": [
+            [
+                "75d0a8a07886f02e"
+            ]
+        ]
+    }
+]
