@@ -17,6 +17,8 @@ A Node-Red dashboard mainly built upon HTTP and OSC. Used to control and monitor
 
 **Download the JSON file in the Main Branch**
 
+Read the Documentation for the Start-Up Guide, Resources, and Explanations
+
 ### Documentation
 
 [Documentation file]
