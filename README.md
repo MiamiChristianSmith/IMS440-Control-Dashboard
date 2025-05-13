@@ -21,5 +21,5 @@ Read the Documentation for the Start-Up Guide, Resources, and Explanations
 
 ### Documentation
 
-[Documentation file](Documentation/Control Dashboard Miami University x 4Wall.pdf)
+[Documentation file](Documentation/Control_Dashboard_Miami_University_x_4Wall.pdf)
 
