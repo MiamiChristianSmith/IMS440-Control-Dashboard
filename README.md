@@ -11,6 +11,8 @@ A Node-Red dashboard mainly built upon HTTP and OSC. Used to control and monitor
 -Stage Precision (Stype)  
 -Blackmagic Hyperdeck  
 
+[Video Demonstration](https://youtu.be/i8LeAZYsYQ8?feature=shared)
+
 ---
 
 ## 🚀 Getting Started
